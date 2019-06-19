@@ -18,6 +18,6 @@ FlashDetector One Click Server
 如果出问题了，建议下载整合包
 
 
-## [下载最新整合包](https://coding.net/s/fa8a7493-4219-4a27-8d45-4d27fba060c6)
+## [下载最新整合包](https://coding.net/api/share/download/fa8a7493-4219-4a27-8d45-4d27fba060c6)
 
-## [下载最新FlashDetector.phar](https://coding.net/s/64ec3644-8e06-44ed-bbee-c2ef1bdfc031)
+## [下载最新FlashDetector.phar](https://coding.net/api/share/download/64ec3644-8e06-44ed-bbee-c2ef1bdfc031)

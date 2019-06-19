@@ -7,7 +7,7 @@ FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存�
 
 ## [查看更新日志](https://coding.net/u/PeratX/p/FlashMaster/git/blob/master/changelog.txt)
 
-## [下载最新版](https://coding.net/s/04aa7962-37fd-458d-b5fb-4a2ca084b7b2)
+## [下载最新版](https://coding.net/api/share/download/04aa7962-37fd-458d-b5fb-4a2ca084b7b2)
 
 ## 更多信息
 
