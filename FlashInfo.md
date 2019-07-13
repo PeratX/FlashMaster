@@ -1,5 +1,7 @@
 # 提交闪存信息
 
+* [English](#Submit-Flash-Info)
+
 * 至少需要已知以下信息
 
 1. 闪存料号
@@ -52,3 +54,58 @@ CODE：无
 ## 网页提交
 
 * 到 [fdfdb](https://github.com/iTXTech/fdfdb) 项目提交 [Pull request](https://github.com/iTXTech/fdfdb/pulls)
+
+# Submit Flash Info
+
+* At least the following information needs to be known
+
+1. Flash Part Number
+1. Flash Id
+1. Manufacturing Process
+1. Cell type (TLC/MLC, etc.)
+
+* For the SanDisk five-digit Part Number, more information is required
+
+1. Whether the NAND Flash is CODEd (not unlocked)
+1. CE number and Die number
+
+# Start submitting your data
+
+## E-Mail
+
+* [Send](mailto:peratx@itxtech.org) to `peratx@itxtech.org`
+
+### Template is as follows
+
+```text
+
+Title: Submit NAND Flash Information
+content:
+Vendor: such as Toshiba / Micron, etc.
+Part number: such as K9OMGY8S7M-CCK0
+ID: ECxxxxxxxxxx (must be 6 bytes, there can be more than one)
+Process: 3DV3
+Cell: TLC
+
+```
+* For SanDisk five-digit item number
+
+```text
+
+Title: Submit NAND Flash Information
+content:
+Vendor: SanDisk
+Part number: such as 05498-128G
+ID: 453E9AA376D1 (must be 6 bytes, there can be more than one)
+Process: 15nm
+Cell: TLC
+CE: 2
+Die: 8
+CODE: None
+Toshiba: 7THL
+
+```
+
+## Web
+
+* Go to [fdfdb](https://github.com/iTXTech/fdfdb) and submit a [Pull request](https://github.com/iTXTech/fdfdb/pulls)

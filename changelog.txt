@@ -12,6 +12,9 @@ https://github.com/iTXTech/FlashDetector
 fdfdb - CC BY-NC-SA 4.0
 https://github.com/iTXTech/fdfdb
 
+1.5.0.21 - 2019/07/13
+新增英语界面（自动切换）
+
 1.4.6.20 - 2019/06/13
 新增国内高速服务器
 闪存ID查询支持空格或西文逗号分隔
