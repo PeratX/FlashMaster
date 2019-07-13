@@ -1,6 +1,6 @@
 # FDOCS - FlashDetector 一键服务端
 
-* [English](#FDOCS)
+* [English](#user-content-fdocs-not-available-in-english)
 
 FlashDetector One Click Server
 

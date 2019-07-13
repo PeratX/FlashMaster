@@ -1,6 +1,6 @@
 # FlashMaster - 闪存大师
 
-* [English](#FlashMaster)
+* [English](#user-content-flashmaster)
 
 FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存料号以及ID的相关信息
 

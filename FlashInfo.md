@@ -1,6 +1,6 @@
 # 提交闪存信息
 
-* [English](#Submit-Flash-Info)
+* [English](#user-content-submit-flash-info)
 
 * 至少需要已知以下信息
 
