@@ -4,9 +4,9 @@
 
 FlashDetector One Click Server
 
-* GUI版本：1.0.3.5
+* GUI版本：1.0.1.2
 * PHP版本：7.3.6
-* FlashDetector版本：24
+* FlashDetector版本：26
 
 ## 运行环境要求
 
@@ -28,9 +28,9 @@ FlashDetector One Click Server
 
 FlashDetector One Click Server
 
-* GUI Version: 1.0.3.5
+* GUI Version: 1.0.1.2
 * PHP Version: 7.3.6
-* FlashDetector Version: 24
+* FlashDetector Version: 26
 
 ## System Requirements
 
