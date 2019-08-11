@@ -6,7 +6,7 @@ FlashDetector One Click Server
 
 * GUI版本：1.0.1.2
 * PHP版本：7.3.6
-* FlashDetector版本：26
+* FlashDetector版本：28
 
 ## 运行环境要求
 
@@ -22,7 +22,7 @@ FlashDetector One Click Server
 
 ## [下载最新整合包](https://coding.net/api/share/download/1a68082d-51f1-42b5-b052-fd5dd0bd4cbf)
 
-## [下载最新FlashDetector.phar](https://coding.net/api/share/download/1334d5c1-1b9a-4a33-9990-5d94b7b46e2e)
+## [下载最新FlashDetector.phar](https://coding.net/api/share/download/35bfd626-44b7-4131-9121-76223c57b358)
 
 # FDOCS (Not available in English)
 
@@ -30,7 +30,7 @@ FlashDetector One Click Server
 
 * GUI Version: 1.0.1.2
 * PHP Version: 7.3.6
-* FlashDetector Version: 26
+* FlashDetector Version: 28
 
 ## System Requirements
 
@@ -46,4 +46,4 @@ If something goes wrong, it is recommended to download the integrated package.
 
 ## [Download Lastest Integrated Package](https://coding.net/api/share/download/1a68082d-51f1-42b5-b052-fd5dd0bd4cbf)
 
-## [Download Latest FlashDetector.phar](https://coding.net/api/share/download/1334d5c1-1b9a-4a33-9990-5d94b7b46e2e)
+## [Download Latest FlashDetector.phar](https://coding.net/api/share/download/35bfd626-44b7-4131-9121-76223c57b358)
