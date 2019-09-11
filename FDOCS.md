@@ -1,6 +1,6 @@
 # FDOCS - FlashDetector 一键服务端
 
-* [English](#user-content-fdocs-not-available-in-english)
+* [English](#fdocs-not-available-in-english)
 
 FlashDetector One Click Server
 
@@ -20,9 +20,9 @@ FlashDetector One Click Server
 如果出问题了，建议下载整合包
 
 
-## [下载最新整合包](https://coding.net/api/share/download/1a68082d-51f1-42b5-b052-fd5dd0bd4cbf)
+## [下载最新整合包](https://gitee.com/FlashMaster/FlashMaster/attach_files/275131/download)
 
-## [下载最新FlashDetector.phar](https://coding.net/api/share/download/201794a1-eb3a-4ca3-9354-5a6853924034)
+## [下载最新FlashDetector.phar](https://gitee.com/FlashMaster/FlashMaster/attach_files/275132/download)
 
 # FDOCS (Not available in English)
 
@@ -44,6 +44,6 @@ In general, you only need to replace `FDOCS\fd\FlashDetector.phar`.
 If something goes wrong, it is recommended to download the integrated package.
 
 
-## [Download Lastest Integrated Package](https://coding.net/api/share/download/1a68082d-51f1-42b5-b052-fd5dd0bd4cbf)
+## [Download Lastest Integrated Package](https://gitee.com/FlashMaster/FlashMaster/attach_files/275131/download)
 
-## [Download Latest FlashDetector.phar](https://coding.net/api/share/download/201794a1-eb3a-4ca3-9354-5a6853924034)
+## [Download Latest FlashDetector.phar](https://gitee.com/FlashMaster/FlashMaster/attach_files/275132/download)

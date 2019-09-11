@@ -1,6 +1,6 @@
 {
-    "version": 21,
-    "completeVer": "1.5.0.21",
-    "info": "Implement English UI",
-    "url": "https://coding.net/api/share/download/a26bee9f-d2c6-427a-997a-41bee13c9d5d"
+    "version": 22,
+    "completeVer": "1.5.1.22",
+    "info": "Double click = Search\nOptimize English Translation\nAdd FlashDetector Server Info\nAdd Auto Detect Flash Id",
+    "url": "https://gitee.com/FlashMaster/FlashMaster/attach_files/275130/download"
 }

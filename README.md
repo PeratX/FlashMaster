@@ -1,17 +1,17 @@
 # FlashMaster - 闪存大师
 
-* [English](#user-content-flashmaster)
+* [English](#flashmaster)
 
 FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存料号以及ID的相关信息
 
 **重要提示：本程序没有包含任何病毒，请自行承担使用风险。**
 
 * 最新版本：1.5.1.22
-* CRC32：PENDING UPDATE
+* CRC32：3F4C235D
 
-## [查看更新日志](https://coding.net/u/PeratX/p/FlashMaster/git/blob/master/changelog.txt)
+## [查看更新日志](https://gitee.com/FlashMaster/FlashMaster/blob/master/changelog.txt)
 
-## [下载最新版](https://coding.net/api/share/download/04aa7962-37fd-458d-b5fb-4a2ca084b7b2)
+## [下载最新版](https://gitee.com/FlashMaster/FlashMaster/attach_files/275130/download)
 
 ## 更多信息
 
@@ -36,11 +36,11 @@ FlashMaster is a free tool for quick and easy access to NAND Flash Part Numbers 
 **IMPORTANT: THERE'S NO VIRUS CONTAINED, USE IT ON YOUR OWN RISK.**
 
 * Latest Version: 1.5.1.22
-* CRC32: PENDING UPDATE
+* CRC32: 3F4C235D
 
-## [Changlog (Chinese)](https://coding.net/u/PeratX/p/FlashMaster/git/blob/master/changelog.txt)
+## [Changlog (Chinese)](https://gitee.com/FlashMaster/FlashMaster/blob/master/changelog.txtt)
 
-## [Download Lastest Version](https://coding.net/api/share/download/a26bee9f-d2c6-427a-997a-41bee13c9d5d)
+## [Download Lastest Version](https://gitee.com/FlashMaster/FlashMaster/attach_files/275130/download)
 
 ## More Information
 
