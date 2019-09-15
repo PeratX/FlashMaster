@@ -20,9 +20,9 @@ FlashDetector One Click Server
 如果出问题了，建议下载整合包
 
 
-## [下载最新整合包](https://gitee.com/FlashMaster/FlashMaster/attach_files/275131/download)
+## [下载最新整合包](https://github.com/PeratX/FlashMaster/releases/download/S0912/FDOCS-1.0.2.3-7.3.9-32.zip)
 
-## [下载最新FlashDetector.phar](https://gitee.com/FlashMaster/FlashMaster/attach_files/275132/download)
+## [下载最新FlashDetector.phar](https://github.com/PeratX/FlashMaster/releases/download/S0912/FlashDetector.phar)
 
 # FDOCS (Not available in English)
 
@@ -44,6 +44,6 @@ In general, you only need to replace `FDOCS\fd\FlashDetector.phar`.
 If something goes wrong, it is recommended to download the integrated package.
 
 
-## [Download Lastest Integrated Package](https://gitee.com/FlashMaster/FlashMaster/attach_files/275131/download)
+## [Download Lastest Integrated Package](https://github.com/PeratX/FlashMaster/releases/download/S0912/FDOCS-1.0.2.3-7.3.9-32.zip)
 
-## [Download Latest FlashDetector.phar](https://gitee.com/FlashMaster/FlashMaster/attach_files/275132/download)
+## [Download Latest FlashDetector.phar](https://github.com/PeratX/FlashMaster/releases/download/S0912/FlashDetector.phar)
