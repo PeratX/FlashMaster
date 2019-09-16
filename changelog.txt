@@ -9,6 +9,10 @@ https://github.com/iTXTech/FlashDetector
 fdfdb - CC BY-NC-SA 4.0
 https://github.com/iTXTech/fdfdb
 
+1.5.2.23 - 2019/09/16
+迁移到GitHub
+修复默认服务器为空的bug
+
 1.5.1.22 - 2019/09/08
 主界面ID列表支持双击查询
 搜索料号支持双击查询

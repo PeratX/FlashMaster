@@ -1,6 +1,6 @@
 {
-    "version": 22,
-    "completeVer": "1.5.1.22",
-    "info": "Double click = Search\nOptimize English Translation\nAdd FlashDetector Server Info\nAdd Auto Detect Flash Id",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0912/FlashMaster-1.5.1.22.zip"
+    "version": 23,
+    "completeVer": "1.5.2.23",
+    "info": "Move to GitHub\nFix default server is blank",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0916/FlashMaster-1.5.2.23.zip"
 }
