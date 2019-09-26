@@ -1,6 +1,6 @@
 {
-    "version": 23,
-    "completeVer": "1.5.2.23",
-    "info": "迁移到GitHub\n修复默认服务器为空的bug",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0916/FlashMaster-1.5.2.23.zip"
+    "version": 24,
+    "completeVer": "1.5.3.24",
+    "info": "支持在线获取服务器列表\n优化HTTP获取逻辑",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip"
 }

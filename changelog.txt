@@ -9,6 +9,10 @@ https://github.com/iTXTech/FlashDetector
 fdfdb - CC BY-NC-SA 4.0
 https://github.com/iTXTech/fdfdb
 
+1.5.3.24 - 2019/09/26
+支持在线获取服务器列表
+优化HTTP获取逻辑
+
 1.5.2.23 - 2019/09/16
 迁移到GitHub
 修复默认服务器为空的bug

@@ -6,12 +6,12 @@ FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存�
 
 **重要提示：本程序没有包含任何病毒，请自行承担使用风险。**
 
-* 最新版本：1.5.2.23
-* CRC32：F5EF9CA5
+* 最新版本：1.5.3.24
+* CRC32：5970058C
 
 ## [查看更新日志](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [下载最新版](https://github.com/PeratX/FlashMaster/releases/download/S0916/FlashMaster-1.5.2.23.zip)
+## [下载最新版](https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip)
 
 ## 更多信息
 
@@ -19,7 +19,7 @@ FlashMaster 为 FlashDetector 的客户端软件，用于展示 FlashDetector �
 
 [FlashDetector](https://github.com/iTXTech/FlashDetector) 是遵循 `Apache License 2.0` 的开源项目，由 [iTX Technologies](https://itxtech.org) 主导
 
-[FlashDetector项目简介](https://coding.net/api/share/download/a26bee9f-d2c6-427a-997a-41bee13c9d5d)
+[FlashDetector项目简介](https://peratx.net/index.php/2019/01/13/flashdetector-brief-intro.html)
 
 FlashMaster 由 `PeratX` 使用 `易语言` 编写。
 
@@ -35,12 +35,12 @@ FlashMaster is a free tool for quick and easy access to NAND Flash Part Numbers 
 
 **IMPORTANT: THERE'S NO VIRUS CONTAINED, USE IT ON YOUR OWN RISK.**
 
-* Latest Version: 1.5.2.23
-* CRC32: F5EF9CA5
+* Latest Version: 1.5.3.24
+* CRC32: 5970058C
 
-## [Changlog (Chinese)](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
+## [Changelog (Chinese)](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [Download Lastest Version](https://github.com/PeratX/FlashMaster/releases/download/S0916/FlashMaster-1.5.2.23.zip)
+## [Download Lastest Version](https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip)
 
 ## More Information
 

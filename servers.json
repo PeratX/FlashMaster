@@ -1,6 +1,5 @@
 {
-    "公共服务器 #1 （中文）（Public-FD）": "https://public-fd.peratx.net",
-    "公共服务器 #2 （中文）（Sakuracg）": "https://fd.sakuracg.com",
-    "公共服务器 #3 （中文）（风沙）": "https://flash.fengshayun.cn",
+    "公共服务器 #1 （中文）（Sakuracg）": "https://fd.sakuracg.com",
+    "公共服务器 #2 （中文）（风沙）": "https://flash.fengshayun.cn",
     "默认本地服务器/Default Local Server": "http://127.0.0.1:8080"
 }

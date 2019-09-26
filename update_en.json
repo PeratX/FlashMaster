@@ -1,6 +1,6 @@
 {
-    "version": 23,
-    "completeVer": "1.5.2.23",
-    "info": "Move to GitHub\nFix default server is blank",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0916/FlashMaster-1.5.2.23.zip"
+    "version": 24,
+    "completeVer": "1.5.3.24",
+    "info": "Support online server list\nOptimize HTTP Get logic",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip"
 }
