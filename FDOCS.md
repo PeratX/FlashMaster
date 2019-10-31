@@ -6,7 +6,7 @@ FlashDetector One Click Server
 
 * GUI版本：1.0.2.3
 * PHP版本：7.3.9
-* FlashDetector版本：32
+* FlashDetector版本：34
 
 ## 运行环境要求
 
@@ -20,7 +20,7 @@ FlashDetector One Click Server
 如果出问题了，建议下载整合包
 
 
-## [下载最新整合包](https://github.com/PeratX/FlashMaster/releases/download/S0912/FDOCS-1.0.2.3-7.3.9-32.zip)
+## [下载最新整合包](https://github.com/PeratX/FlashMaster/releases/download/S1013/FDOCS-1.0.2.3-7.3.9-34.zip)
 
 ## [下载最新FlashDetector.phar](https://github.com/iTXTech/FlashDetector/releases)
 
@@ -30,7 +30,7 @@ FlashDetector One Click Server
 
 * GUI Version: 1.0.2.3
 * PHP Version: 7.3.9
-* FlashDetector Version: 32
+* FlashDetector Version: 34
 
 ## System Requirements
 
@@ -44,6 +44,6 @@ In general, you only need to replace `FDOCS\fd\FlashDetector.phar`.
 If something goes wrong, it is recommended to download the integrated package.
 
 
-## [Download Lastest Integrated Package](https://github.com/PeratX/FlashMaster/releases/download/S0912/FDOCS-1.0.2.3-7.3.9-32.zip)
+## [Download Lastest Integrated Package](https://github.com/PeratX/FlashMaster/releases/download/S1013/FDOCS-1.0.2.3-7.3.9-34.zip)
 
 ## [Download Latest FlashDetector.phar](https://github.com/iTXTech/FlashDetector/releases)

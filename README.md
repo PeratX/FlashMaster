@@ -6,12 +6,12 @@ FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存�
 
 **重要提示：本程序没有包含任何病毒，请自行承担使用风险。**
 
-* 最新版本：1.5.3.24
-* CRC32：5970058C
+* 最新版本：1.5.4.25
+* CRC32：5AECDF8A
 
 ## [查看更新日志](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [下载最新版](https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip)
+## [下载最新版](https://github.com/PeratX/FlashMaster/releases/download/S1031/FlashMaster-1.5.4.25.zip)
 
 ## 更多信息
 
@@ -35,12 +35,12 @@ FlashMaster is a free tool for quick and easy access to NAND Flash Part Numbers 
 
 **IMPORTANT: THERE'S NO VIRUS CONTAINED, USE IT ON YOUR OWN RISK.**
 
-* Latest Version: 1.5.3.24
-* CRC32: 5970058C
+* Latest Version: 1.5.4.25
+* CRC32: 5AECDF8A
 
 ## [Changelog (Chinese)](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [Download Lastest Version](https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip)
+## [Download Lastest Version](https://github.com/PeratX/FlashMaster/releases/download/S1031/FlashMaster-1.5.4.25.zip)
 
 ## More Information
 

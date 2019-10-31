@@ -1,6 +1,6 @@
 {
-    "version": 24,
-    "completeVer": "1.5.3.24",
-    "info": "支持在线获取服务器列表\n优化HTTP获取逻辑",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip"
+    "version": 25,
+    "completeVer": "1.5.4.25",
+    "info": "添加“铠侠”和“西数”的信息\n优化服务器列表获取逻辑",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1031/FlashMaster-1.5.4.25.zip"
 }

@@ -1,6 +1,6 @@
 {
-    "version": 24,
-    "completeVer": "1.5.3.24",
-    "info": "Support online server list\nOptimize HTTP Get logic",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S0926/FlashMaster-1.5.3.24.zip"
+    "version": 25,
+    "completeVer": "1.5.4.25",
+    "info": "Add info for 'Kioxia' and 'Western Digital'\nOptimize online server list obtaining logic",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1031/FlashMaster-1.5.4.25.zip"
 }
