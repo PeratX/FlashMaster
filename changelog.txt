@@ -9,6 +9,9 @@ https://github.com/iTXTech/FlashDetector
 fdfdb - CC BY-NC-SA 4.0
 https://github.com/iTXTech/fdfdb
 
+1.6.0.26 - 2019/11/09
+新增内嵌服务端
+
 1.5.4.25 - 2019/10/31
 添加“铠侠”和“西数”的信息
 优化服务器列表获取逻辑

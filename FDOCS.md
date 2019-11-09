@@ -1,4 +1,4 @@
-# FDOCS - FlashDetector 一键服务端
+# FDOCS - FlashDetector 一键服务端 - 已废弃
 
 * [English](#fdocs-not-available-in-english)
 
@@ -24,7 +24,7 @@ FlashDetector One Click Server
 
 ## [下载最新FlashDetector.phar](https://github.com/iTXTech/FlashDetector/releases)
 
-# FDOCS (Not available in English)
+# FDOCS (Not available in English) - Discontinued
 
 FlashDetector One Click Server
 

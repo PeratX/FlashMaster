@@ -1,6 +1,6 @@
 {
-    "version": 25,
-    "completeVer": "1.5.4.25",
-    "info": "Add info for 'Kioxia' and 'Western Digital'\nOptimize online server list obtaining logic",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1031/FlashMaster-1.5.4.25.zip"
+    "version": 26,
+    "completeVer": "1.6.0.26",
+    "info": "Add Embedded Server (Please visit official website to download full package)",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1109/FlashMaster-1.6.0.26.zip"
 }
