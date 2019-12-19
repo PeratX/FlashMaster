@@ -66,7 +66,7 @@ CODE：无
 
 * For the SanDisk five-digit Part Number, more information is required
 
-1. Whether the NAND Flash is CODEd (not unlocked)
+1. Whether the NAND Flash is CODEd (unlocked)
 1. CE number and Die number
 
 # Start submitting your data
@@ -88,7 +88,7 @@ Process: 3DV3
 Cell: TLC
 
 ```
-* For SanDisk five-digit item number
+* For SanDisk five-digit part number
 
 ```text
 

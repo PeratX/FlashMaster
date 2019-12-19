@@ -1,6 +1,6 @@
 {
-    "version": 26,
-    "completeVer": "1.6.0.26",
-    "info": "新增内嵌服务端（完整包请前往官网下载）    ",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1109/FlashMaster-1.6.0.26.zip"
+    "version": 27,
+    "completeVer": "1.6.1.27",
+    "info": "增加闪存信息列宽，显示更完整\n搜索闪存支持显示备注\n默认禁用内嵌服务端\n加入捐赠二维码",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27.zip"
 }
