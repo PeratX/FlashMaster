@@ -9,6 +9,9 @@ https://github.com/iTXTech/FlashDetector
 fdfdb - CC BY-NC-SA 4.0
 https://github.com/iTXTech/fdfdb
 
+1.7.0.28 - 2019/12/30
+支持新版 FlashDetector API
+
 1.6.1.27 - 2019/12/19
 增加闪存信息列宽，显示更完整
 搜索闪存支持显示备注

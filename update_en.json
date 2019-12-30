@@ -1,6 +1,6 @@
 {
-    "version": 27,
-    "completeVer": "1.6.1.27",
-    "info": "Increase the flash information column width and display more complete\nSearch flash support display remark\nEmbedded server is disabled by default\nAdd donation QR code",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27.zip"
+    "version": 28,
+    "completeVer": "1.7.0.28",
+    "info": "Support new FlashDetector API",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip"
 }

@@ -6,11 +6,11 @@ __An iTX Technologies ChipXpert™ Project.__
 
 ### 支付宝（推荐） - Alipay (Recommended)
 
-![text](images/alipay.jpg)
+![alipay qrcode](images/alipay.jpg)
 
 ### 微信 - Wechat
 
-![text](images/wechat.jpg)
+![wechat qrcode](images/wechat.jpg)
 
 ------------
 
@@ -20,14 +20,14 @@ FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存�
 
 **重要提示：本程序没有包含任何病毒，请自行承担使用风险。**
 
-* 最新版本：1.6.1.27
-* CRC32：DEEBB97A
+* 最新版本：1.7.0.28
+* CRC32：6FC7F29E
 
 ## [查看更新日志](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [下载最新版（不含内嵌服务端）](https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27.zip)
+## [下载最新版（不含内嵌服务端）](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip)
 
-## [下载最新版（含内嵌服务端），需安装VC++ 32位组件包](https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27-Full.zip)
+## [下载最新版（含内嵌服务端），需安装VC++ 32位组件包](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28-Full.zip)
 
 ## [VC++ 32位可再发行组建包](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
@@ -53,14 +53,14 @@ FlashMaster is a free tool for quick and easy access to NAND Flash Part Numbers 
 
 **IMPORTANT: THERE'S NO VIRUS CONTAINED, USE IT ON YOUR OWN RISK.**
 
-* Latest Version: 1.6.1.27
-* CRC32: DEEBB97A
+* Latest Version: 1.7.0.28
+* CRC32: 6FC7F29E
 
 ## [Changelog (Chinese)](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [Download Lastest Release (Without Embedded Server)](https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27.zip)
+## [Download Lastest Release (Without Embedded Server)](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip)
 
-## [Download Lastest Release (With Embedded Server), require VC++ x86 redist](https://github.com/PeratX/FlashMaster/releases/download/S1219/FlashMaster-1.6.1.27-Full.zip)
+## [Download Lastest Release (With Embedded Server), require VC++ x86 redist](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28-Full.zip)
 
 ## [VC++ x86 redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
