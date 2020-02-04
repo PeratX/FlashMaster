@@ -1,6 +1,6 @@
 {
-    "version": 28,
-    "completeVer": "1.7.0.28",
-    "info": "Support new FlashDetector API",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip"
+    "version": 29,
+    "completeVer": "1.8.0.29",
+    "info": "Add support for displaying URLs\nAdd support of fetch summary",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29.zip"
 }

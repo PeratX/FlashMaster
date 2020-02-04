@@ -1,6 +1,6 @@
 # FlashMaster - 闪存大师
 
-__An iTX Technologies ChipXpert™ Project.__
+**立即使用 [FlashMaster 在线版](https://fm.peratx.net)**
 
 ## 支持作者 - Support Author
 
@@ -20,14 +20,14 @@ FlashMaster 是一款免费的工具软件，能够方便快捷地查询闪存�
 
 **重要提示：本程序没有包含任何病毒，请自行承担使用风险。**
 
-* 最新版本：1.7.0.28
-* CRC32：6FC7F29E
+* 最新版本：1.8.0.29
+* CRC32：B0553D49
 
 ## [查看更新日志](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [下载最新版（不含内嵌服务端）](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip)
+## [下载最新版（不含内嵌服务端）](https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29.zip)
 
-## [下载最新版（含内嵌服务端），需安装VC++ 32位组件包](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28-Full.zip)
+## [下载最新版（含内嵌服务端），需安装VC++ 32位组件包](https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29-Full.zip)
 
 ## [VC++ 32位可再发行组建包](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
@@ -41,7 +41,7 @@ FlashMaster 为 FlashDetector 的客户端软件，用于展示 FlashDetector �
 
 FlashMaster 由 `PeratX` 使用 `易语言` 编写。
 
-版权所有（C）2018-2019 PeratX，保留所有权利。
+版权所有（C）2018-2020 PeratX，保留所有权利。
 
 ## 联系方式
 
@@ -51,16 +51,18 @@ FlashMaster 由 `PeratX` 使用 `易语言` 编写。
 
 FlashMaster is a free tool for quick and easy access to NAND Flash Part Numbers and ID information.
 
+**Try [FlashMaster Online](https://fm.peratx.net)**
+
 **IMPORTANT: THERE'S NO VIRUS CONTAINED, USE IT ON YOUR OWN RISK.**
 
-* Latest Version: 1.7.0.28
-* CRC32: 6FC7F29E
+* Latest Version: 1.8.0.29
+* CRC32: B0553D49
 
 ## [Changelog (Chinese)](https://github.com/PeratX/FlashMaster/blob/master/changelog.txt)
 
-## [Download Lastest Release (Without Embedded Server)](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28.zip)
+## [Download Lastest Release (Without Embedded Server)](https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29.zip)
 
-## [Download Lastest Release (With Embedded Server), require VC++ x86 redist](https://github.com/PeratX/FlashMaster/releases/download/S1230/FlashMaster-1.7.0.28-Full.zip)
+## [Download Lastest Release (With Embedded Server), require VC++ x86 redist](https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29-Full.zip)
 
 ## [VC++ x86 redist](https://aka.ms/vs/16/release/vc_redist.x86.exe)
 
@@ -74,7 +76,7 @@ FlashMaster is the client software of FlashDetector and is used to display the q
 
 FlashMaster is made by `PeratX` using `易语言`.
 
-Copyright (C) 2018-2019 PeratX, All Rights Reserved.
+Copyright (C) 2018-2020 PeratX, All Rights Reserved.
 
 ## Contact
 
