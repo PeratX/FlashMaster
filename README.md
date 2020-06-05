@@ -4,13 +4,9 @@
 
 ## 支持作者 - Support Author
 
-### 支付宝（推荐） - Alipay (Recommended)
+### 支付宝 - Alipay
 
 ![alipay qrcode](images/alipay.jpg)
-
-### 微信 - Wechat
-
-![wechat qrcode](images/wechat.jpg)
 
 ------------
 
