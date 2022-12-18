@@ -1,13 +1,15 @@
 FlashMaster（闪存大师）更新日志
 作者：PeratX
 邮箱：peratx@itxtech.org
-版权所有 (C) 2018-2020 PeratX 保留所有权利。
+版权所有 (C) 2018-2022 PeratX 保留所有权利。
 
-FlashDetector - Apache License 2.0
+FlashDetector - GNU AGPL 3.0
 https://github.com/iTXTech/FlashDetector
 
-fdfdb - CC BY-NC-SA 4.0
-https://github.com/iTXTech/fdfdb
+1.9.0.30-Preview1 - 2022/12/18
+更新到新版FlashDetector API
+优化界面布局
+更新内嵌服务端到SimpleFramework 2.2.1/FlashDetector V78
 
 1.8.0.29 - 2020/02/04
 支持显示链接
