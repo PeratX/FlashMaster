@@ -1,6 +1,6 @@
 {
-    "version": 29,
-    "completeVer": "1.8.0.29",
-    "info": "支持显示链接\n支持获取料号摘要信息",
-    "url": "https://github.com/PeratX/FlashMaster/releases/download/T0204/FlashMaster-1.8.0.29.zip"
+    "version": 30,
+    "completeVer": "1.9.0.30-Preview1",
+    "info": "更新到新版FlashDetector API\n优化界面布局\n更新内嵌服务端到SimpleFramework 2.2.1/FlashDetector V78",
+    "url": "https://github.com/PeratX/FlashMaster/releases/download/V1218/FlashMaster-1.9.0.30-Preview1-Full-FD78.zip"
 }
